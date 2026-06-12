@@ -4,7 +4,7 @@ A public-facing Streamlit dashboard tracking the 2026 Andes hantavirus outbreak 
 
 ## Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+parikhpriyanka86-blip-hantavirus-tracker-app-jmnrqw.streamlit.app
 
 ## Features
 
